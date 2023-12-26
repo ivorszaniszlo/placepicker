@@ -1,8 +1,9 @@
-# Movielist
+# PLacePicker
 
 ## Table of contents
 * [General info](#general-info)
 * [Description](#description)
+* [Screenhot](#screenhot)
 * [Technolgies](#technolgies)
 * [Setup & Start](#setup)
 * [Deploy](#deploy)
@@ -17,6 +18,10 @@ A web application, built with React according to "React - The Complete Guide 202
 
 Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more! [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
+## Screenhot <a id="screenhot"></a>
+
+![image](./public/screenshot.jpg)
+
 ## Technolgies <a id="technolgies"></a>
 
 * React - Front End Library
@@ -26,7 +31,10 @@ Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router
 
 * Clone or download the repo
 * Open the directory and run `npm install` in the project root.
-* Run `npm start` in the project root and the app will be available on port 3000.
+* Run `npm run dev` in the project root and the app will be available on port in localhost.
+* Open the directory and run `npm install` in the folder /backend.
+* Run `npm app.js`
+
 
 ## Deploy <a id="deploy"></a>
 
