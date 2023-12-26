@@ -26,6 +26,7 @@ Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router
 
 * React - Front End Library
 * Node.js
+* Vite.js
 
 ## Setup & Start <a id="setup"></a>
 
